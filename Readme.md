@@ -13,10 +13,8 @@
 3- Run Main.java to get the required output.
 
 4- To view the exception test cases please follow the following steps and run run the Main.java
-
-    A) uncomment the  block  at line no 49 in Main.java to test case for exception for "multiple reviews not allowed"
-
-    B) uncomment the  block  at line no 54 in Main.java to test case for exception for "multiple reviews not allowed"
+    A. uncomment the  block  at line no 49 in Main.java to test case for exception for "multiple reviews not allowed"
+    B. uncomment the  block  at line no 54 in Main.java to test case for exception for "multiple reviews not allowed"
 
 5- The screenshots of outputs are attached in the "Output Screenshots" folder
         
